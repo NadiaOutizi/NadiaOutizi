@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nadiaoutizi2@gmail.com**
 
-- ⚡ Fun fact **I Think i'm Funny**
+- ⚡ Fun fact **I would like to change the world but they won't give me the source code**
 
 
 
