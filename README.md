@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadiaoutizi&label=Profile%20views&color=0e75b6&style=flat" alt="nadiaoutizi" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Dart**
 
 - 💬 Ask me about **Reactjs,Laravel**
 
