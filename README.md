@@ -1,5 +1,5 @@
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpza2ZyYjB0dGJsdHdzN3ZzOWFkeDZnbmhyMWNva2oyN25yd3F4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pqMSyHmekA1Qe7Utp7/giphy.gif" width="900" height="10"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpza2ZyYjB0dGJsdHdzN3ZzOWFkeDZnbmhyMWNva2oyN25yd3F4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pqMSyHmekA1Qe7Utp7/giphy.gif" width="900" height="40"/>
 
 
 <h1 align="center">Hi 👋, I'm Nadia Outizi</h1>
