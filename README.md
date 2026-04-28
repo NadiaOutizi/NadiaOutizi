@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VqaGNoNTltb2hlczlpcWRua25rYnd4am9hZ2VsaXpwMnhxZHV1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 
 
-<h1 align="center">Hi 👋, I'm Nadia Outizi</h1>
+<h1 align="center">Heyya 👋, I'm Nadia Outizi</h1>
 <h3 align="center">A passionate fullStack developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadiaoutizi&label=Profile%20views&color=0e75b6&style=flat" alt="nadiaoutizi" /> </p>
