@@ -1,7 +1,5 @@
-![MasterHead]
-<p align="center">
-  <img src="[YOUR_GIF_LINK](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpza2ZyYjB0dGJsdHdzN3ZzOWFkeDZnbmhyMWNva2oyN25yd3F4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pqMSyHmekA1Qe7Utp7/giphy.gif)" width="300"/>
-</p>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpza2ZyYjB0dGJsdHdzN3ZzOWFkeDZnbmhyMWNva2oyN25yd3F4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pqMSyHmekA1Qe7Utp7/giphy.gif" width="300"/>
 
 
 <h1 align="center">Hi 👋, I'm Nadia Outizi</h1>
